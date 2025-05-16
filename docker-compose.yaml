@@ -3,10 +3,10 @@
 volumes:
   database-data:
 
-networks:
-  stack:
-    name: stack
-    external: false
+#networks:
+#  stack:
+#    name: stack
+#    external: false
 
 services:
   database:
